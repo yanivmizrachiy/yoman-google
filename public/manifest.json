@@ -1,0 +1,21 @@
+{
+  "name": "TITAN Calendar V8.0",
+  "short_name": "TITAN",
+  "description": "מערכת ניהול זמן חכמה מבוססת AI עם סנכרון Google Calendar מלא וביצועי TITAN.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#050505",
+  "theme_color": "#2563eb",
+  "icons": [
+    {
+      "src": "https://picsum.photos/seed/calendar/192/192",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://picsum.photos/seed/calendar/512/512",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
